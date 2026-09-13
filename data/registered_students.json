@@ -1,0 +1,20 @@
+[
+  {
+    "id": "admin_himanshu",
+    "name": "Himanshu Chawla",
+    "email": "himanshuch492@gmail.com",
+    "role": "teacher_admin",
+    "targetJourney": "CLASS_12",
+    "institution": "StudyMentor AI Central Command",
+    "hasInspectorPrivilege": true,
+    "approvalStatus": "approved",
+    "isKillSwitched": false,
+    "bio": "Super Admin & Lead Paper Examiner for Class 12 & CA Foundation.",
+    "assignedBatches": [
+      "Class 12 Commerce - Batch Alpha",
+      "CA Foundation 2026 Batch"
+    ],
+    "createdAt": "2026-09-03T17:12:03.642Z",
+    "updatedAt": "2026-09-03T17:12:03.642Z"
+  }
+]

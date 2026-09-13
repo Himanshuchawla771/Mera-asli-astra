@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#grad)" />
+  <!-- Graduation Cap & Certificate Icon Graphic -->
+  <g transform="translate(106, 116)" fill="none" stroke="#ffffff" stroke-width="24" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M150 20 L280 90 L150 160 L20 90 Z" fill="#ffffff" fill-opacity="0.15" />
+    <path d="M60 115 V195 C60 250 240 250 240 195 V115" />
+    <path d="M280 90 V190" stroke-width="16" />
+    <circle cx="280" cy="205" r="14" fill="#ffffff" />
+    <!-- Checkmark Badge -->
+    <circle cx="150" cy="220" r="45" fill="#10b981" stroke="#ffffff" stroke-width="12" />
+    <path d="M135 220 L146 232 L168 208" stroke="#ffffff" stroke-width="12" />
+  </g>
+</svg>
